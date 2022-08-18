@@ -1,0 +1,1 @@
+export const login="/vip/login"; //登录验证
